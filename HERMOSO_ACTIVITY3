@@ -1,0 +1,13 @@
+
+
+
+ # Enter an integer in seconds: 500
+ # 500 seconds is 8 minutes and 20 seconds
+
+
+SEC = 500
+MIN = 8 + 20
+res = SEC + MIN // 1
+print(res)
+
+
